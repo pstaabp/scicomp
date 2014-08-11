@@ -13,6 +13,14 @@ Solving an equation is a very important part of mathematics and other scientific
 
 In lieu of using such a formula, a more robust approach is to solve it numerically.  Let's consider
 
+
 \\[15{x}^{3}-143{x}^2+226x+280=0\\]
 
 This cubic actually factors, but finding those factors is quite difficult to do in general.  We then look at using [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method) to solve this.
+
+
+
+<div style="display:none">    
+<!--This seemingly unnecessary div markup is the only thing keeping this script working after Markdown conversion. Trust me.-->    
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>    
+</div>
