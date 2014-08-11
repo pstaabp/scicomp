@@ -1,4 +1,6 @@
 
+
+
 Week 2 Notes
 =============
 
@@ -11,6 +13,6 @@ Solving an equation is a very important part of mathematics and other scientific
 
 In lieu of using such a formula, a more robust approach is to solve it numerically.  Let's consider
 
-\\[15x^3-143x^2+226x+280=0\\]
+\\[15{x}^{3}-143{x}^2+226x+280=0\\]
 
 This cubic actually factors, but finding those factors is quite difficult to do in general.  We then look at using [Newton's method](https://en.wikipedia.org/wiki/Newton%27s_method) to solve this.
