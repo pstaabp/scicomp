@@ -20,7 +20,3 @@ This cubic actually factors, but finding those factors is quite difficult to do 
 
 
 
-<div style="display:none">    
-<!--This seemingly unnecessary div markup is the only thing keeping this script working after Markdown conversion. Trust me.-->    
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>    
-</div>
