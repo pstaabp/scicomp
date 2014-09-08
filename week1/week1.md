@@ -106,3 +106,9 @@ It's crucial to have a good sense of the problem (whether it be mathematical or 
 
 Let's reexamine the quadratic formula.  The problem arose due to roundoff.  
 
+
+
+
+<script type="text/javascript"
+  src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
